@@ -30,6 +30,6 @@ person.speak();
 
 
 
-var student : Student = new Student("Donald", 123456789);
+var student : Student = new Student("Jason", 123456789);
 student.speak();
 student.studies();
